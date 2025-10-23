@@ -22,10 +22,10 @@ import pic4 from "./pic4.png";
 import img1 from "./img1.jpg";
 import img2 from "./img2.jpg";
 import Quick_Chat_Icon from "./Quick_Chat_Icon_New.png";
-import Quick_Chat_Icon_New1 from "./Quick_Chat_Icon_New1.png";
-import Quick_Chat_logo2 from "./Quick_Chat_logo2.png";
+import Quick_Chat_Icon_New1 from "./Quick_Chat_Icon_Akhil.png";
+import Quick_Chat_logo2 from "./Quick_Chat_Big_Logo_Akhil.png";
 import Quick_Chat_logo1 from "./Quick_Chat_logo.png";
-import Quick_Chat_Logo_Big from "./Quick_Chat_Big_Logo.png";
+import Quick_Chat_Logo_Big from "./Quick_Chat_Big_Logo_Akhil.png";
 
 const assets = {
   Quick_Chat_Logo_Big,

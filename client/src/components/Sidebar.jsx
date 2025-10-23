@@ -41,7 +41,7 @@ const Sidebar = () => {
       {/* Header Section - Fixed */}
       <div className="p-5 bg-black/10">
         <div className="flex items-center justify-between relative">
-          <img src={assets.Quick_Chat_logo2} alt="logo" className="max-w-40" />
+          <img src={assets.Quick_Chat_logo2} alt="logo" className="max-w-0" />
 
           {/* Menu Button */}
           <div className="relative py-2">
